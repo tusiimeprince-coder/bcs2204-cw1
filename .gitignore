@@ -1,0 +1,8 @@
+main
+tests
+timing
+bug
+*.csv
+students_out.txt
+test_out.txt
+test_bad_lines.txt
